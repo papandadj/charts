@@ -63,7 +63,7 @@ resources: {}
   #   memory: 128Mi
 
 nodeSelector: 
-  device-typ: "led"
+  device-typ: "zpy"
 
 tolerations: []
 
