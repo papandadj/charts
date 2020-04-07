@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2020-04-07T10:51:09.317863325+08:00"
+entries:
+  led:
+  - apiVersion: v2
+    appVersion: v0.1
+    created: "2020-04-07T11:33:37.064776595+08:00"
+    description: 简单的led测试
+    digest: 5201e1927488d8ba8d97ed386372b9af1bbf41810f1f3d1c1089e1a573b6faae
+    name: led
+    type: application
+    urls:
+    - led-0.1.tgz
+    version: "0.1"
+generated: "2020-04-07T11:33:37.064067418+08:00"
