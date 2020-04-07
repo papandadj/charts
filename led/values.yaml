@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: papandadj/led_test
+  repository: papandadj/led_test:v0.1
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
