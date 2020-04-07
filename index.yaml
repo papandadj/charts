@@ -3,12 +3,12 @@ entries:
   led:
   - apiVersion: v2
     appVersion: v0.1
-    created: "2020-04-07T14:39:08.627418598+08:00"
+    created: "2020-04-07T14:46:23.801272216+08:00"
     description: 简单的led测试
-    digest: 733fcdc05c72d230a1d593735a12f0888dfafd66e1e63732896a5178d66debf8
+    digest: 243255cd2aa08a298284518ccda41900d238218fe453f6e4e5d888b5e04baae1
     name: led
     type: application
     urls:
     - led-0.1.tgz
     version: "0.1"
-generated: "2020-04-07T14:39:08.626670198+08:00"
+generated: "2020-04-07T14:46:23.800378902+08:00"
