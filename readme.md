@@ -1,0 +1,1 @@
+helm install --dry-run --debug --set nodeSelector."k3s\\.io/hostname"=envy emqx-server ./emqx-server

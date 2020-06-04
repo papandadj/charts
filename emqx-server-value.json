@@ -1,0 +1,5 @@
+{
+  "nodeSelector": {
+    "k3s.io/hostname": "envy"
+  }
+}
