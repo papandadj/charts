@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  emqx-server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-04T22:45:00.915610806+08:00"
+    description: A Helm chart for Kubernetes
+    digest: bf3a9561f5d58418349d0efc9527a9ed01d00aed510dfabfb1444606100aba59
+    name: emqx-server
+    type: application
+    urls:
+    - emqx-server-0.1.0.tgz
+    version: 0.1.0
   led:
   - apiVersion: v2
     appVersion: v0.1
-    created: "2020-04-07T16:19:36.753499388+08:00"
+    created: "2020-06-04T22:45:00.916159736+08:00"
     description: 简单的led测试
     digest: 577b0a76f0432d031a0369350e911a85eee7ff63e4296f82853429d223625bdb
     name: led
@@ -11,4 +22,4 @@ entries:
     urls:
     - led-0.1.tgz
     version: "0.1"
-generated: "2020-04-07T16:19:36.752720485+08:00"
+generated: "2020-06-04T22:45:00.91430524+08:00"
