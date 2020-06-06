@@ -2,10 +2,10 @@ apiVersion: helm.cattle.io/v1
 kind: HelmChart
 metadata:
   name: emqx-serrrrr
-  namespace: kube-system
+  namespace: default
 spec:
-  chart: stable/grafana
+  chart: https://papandadj.github.io/charts/emqx-server-0.1.0.tgz
   targetNamespace: default
   set:
     nodeSelector: 
-      k3s.io/hostname": envy
+      k3s.io/hostname: envy
